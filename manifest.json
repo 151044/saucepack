@@ -1,0 +1,114 @@
+{
+  "minecraft": {
+    "version": "1.19.2",
+    "modLoaders": [
+      {
+        "id": "fabric-0.14.19",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "SaucePack",
+  "version": "1.19.2",
+  "author": "Saucy pack.",
+  "files": [
+    {
+      "projectID": 341888,
+      "fileID": 3885983,
+      "required": true
+    },
+    {
+      "projectID": 415438,
+      "fileID": 4344773,
+      "required": true
+    },
+    {
+      "projectID": 393236,
+      "fileID": 4031404,
+      "required": true
+    },
+    {
+      "projectID": 32274,
+      "fileID": 4532890,
+      "required": true
+    },
+    {
+      "projectID": 240630,
+      "fileID": 3951646,
+      "required": true
+    },
+    {
+      "projectID": 238222,
+      "fileID": 4494409,
+      "required": true
+    },
+    {
+      "projectID": 60089,
+      "fileID": 3828448,
+      "required": true
+    },
+    {
+      "projectID": 274259,
+      "fileID": 4507153,
+      "required": true
+    },
+    {
+      "projectID": 500087,
+      "fileID": 4513836,
+      "required": true
+    },
+    {
+      "projectID": 500525,
+      "fileID": 4442592,
+      "required": true
+    },
+    {
+      "projectID": 391378,
+      "fileID": 4579252,
+      "required": true
+    },
+    {
+      "projectID": 693313,
+      "fileID": 4554112,
+      "required": true
+    },
+    {
+      "projectID": 388172,
+      "fileID": 4407239,
+      "required": true
+    },
+    {
+      "projectID": 565956,
+      "fileID": 4567899,
+      "required": true
+    },
+    {
+      "projectID": 341284,
+      "fileID": 4343755,
+      "required": true
+    },
+    {
+      "projectID": 421839,
+      "fileID": 4557910,
+      "required": true
+    },
+    {
+      "projectID": 624165,
+      "fileID": 4537370,
+      "required": true
+    },
+    {
+      "projectID": 306612,
+      "fileID": 4438705,
+      "required": true
+    },
+    {
+      "projectID": 348521,
+      "fileID": 3972420,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
