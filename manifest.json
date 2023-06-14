@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "SaucePack",
-  "version": "1.19.2",
+  "version": "0.2",
   "author": "Saucy pack.",
   "files": [
     {
@@ -107,6 +107,26 @@
     {
       "projectID": 348521,
       "fileID": 3972420,
+      "required": true
+    },
+    {
+      "projectID": 615134,
+      "fileID": 4073853,
+      "required": true
+    },
+    {
+      "projectID": 498534,
+      "fileID": 3991296,
+      "required": true
+    },
+    {
+      "projectID": 616602,
+      "fileID": 4562404,
+      "required": true
+    },
+    {
+      "projectID": 541171,
+      "fileID": 4572442,
       "required": true
     }
   ],
